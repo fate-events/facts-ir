@@ -7,15 +7,15 @@ This half-day workshop explores challenges in responsible information retrieval 
 TBD
 
 # Organization 
-Alexandra Olteanu (Microsoft Research, US & Canada)
-Maarten de Rijke (University of Amsterdam, Netherlands)
-Michael Ekstrand (Boise State University, US)
-Jean Garcia-Gathright (Spotify, US)
+* Alexandra Olteanu (Microsoft Research, US & Canada)
+* Maarten de Rijke (University of Amsterdam, Netherlands)
+* Michael Ekstrand (Boise State University, US)
+* Jean Garcia-Gathright (Spotify, US)
 
 # Senior PC Members
-Fernando Diaz (Microsoft Research, Canada)
-Toshihiro Kamishima (National Institute of Advanced Industrial Science and Technology, Japan)
-Pierre-Nicolas Schwab (Solvay Brussels School of Economics and Management)
+* Fernando Diaz (Microsoft Research, Canada)
+* Toshihiro Kamishima (National Institute of Advanced Industrial Science and Technology, Japan)
+* Pierre-Nicolas Schwab (Solvay Brussels School of Economics and Management)
 
 # PC Members 
 TBD
