@@ -12,16 +12,20 @@ To ensure that the working groups in the second part of the workshop will be pro
 # Call for Papers
 We welcome technical contributions and position papers as either long papers (8 pages) or extended abstracts (2-4 pages) on a wide range of topics, including:
 
-### Fairness
+### Fair IR
+The IR system should avoid discrimination across people and communities. To do so the notion of fairness should be contextual and well grounded in the application setup and domain. Achieving fairness may be further complicated by the multi-stakeholder nature of most IR systems.
 
-### Accountability
+### Accountable IR
+The IR system should be able to justify its' recommendations or actions to users and other stakeholders, as well as be reliable at all times.  This requires an understanding of the potential harms of using the system and of who is more likely to be affected.  It also requires recourse avenues and processes for redress.
 
-### Confidentiality 
+### Confidential IR 
+The output or actions of the IR system should not reveal secrets. IR systems often combine extensive behavioral logs to model their users, which if not properly handled can result in unintended leakage of information.   
 
-### Transparency 
+### Transparent IR
+The IR system should be able to explain why and how the suggest results were obtain to users and other interested stakeholders.  Providing proper explanations may require to answer who the users and the stakeholders are.  More broadly, the IR systems should be able to enable third parties to monitor and probe that they behave as expected. 
 
-### Safety
-
+### Safe IR 
+The IR system should be resilient to manipulation by possible adversarial parties, and should not expose the users to udesirable, harmful content.  
 
 # Important Dates
 * **May 3, 2019**:     Workshop paper submissions due
