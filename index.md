@@ -42,7 +42,7 @@ Papers should be in English, in PDF, and formatted using the standard ACM style 
 # Organization 
 * Alexandra Olteanu (Microsoft Research, US & Canada)
 * Jean Garcia-Gathright (Spotify, US)
-* Maarten de Rijke (University of Amsterdam, Netherlands)
+* Maarten de Rijke (University of Amsterdam, The Netherlands)
 * Michael Ekstrand (Boise State University, US)
 
 # PC Members
