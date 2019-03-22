@@ -1,13 +1,32 @@
 ## FACTS-IR Workshop @ SIGIR 2019
 
 # Workshop Objectives
-This workshop explores challenges in responsible information retrieval system development and deployment. The focus will be on determining actionable research agendas on four key dimensions of responsible information retrieval: fairness, accountability, confidentiality, and transparency. Rather than just mini-conference, this workshop will be an event during which participants will also be expected to work.  The workshop aims to bring together a diverse set of researchers and practitioners interested in helping to develop the technical research agenda for responsible information retrieval.
+This workshop explores challenges in responsible information retrieval system development and deployment. The focus will be on determining actionable research agendas on four key dimensions of responsible information retrieval: fairness, accountability, confidentiality, and transparency. Rather than just mini-conference, this workshop will be an event during which participants will also be expected to work.  The workshop aims to bring together a diverse set of researchers and practitioners interested in helping to develop the technical research agenda for responsible information retrieval. 
+
+The full-day workshop will be organize in two parts: 
+* The first half-day will include presentation, based on the accepted papers by our PC members
+* The second half-day, the participants will be organized in working groups and tasked with articulating a research agenda for one of the FACTS-IR topics (Fairness, Accountability, Confidentiality, Transparency, and Safety)
+
+To ensure that the working groups in the second part of the workshop will be productive, we may cap the number of participants. 
+
+# Call for Papers
+We welcome technical contributions and position papers as either long papers (8 pages) or extended abstracts (2-4 pages) on a wide range of topics, including:
+
+### Fairness
+
+### Accountability
+
+### Confidentiality 
+
+### Transparency 
+
+### Safety
+
 
 # Important Dates
 * **May 3, 2019**:     Workshop paper submissions due
 * **May 31, 2019**:    Workshop paper notification
 * **July 25, 2019**:   Workshop Day at SIGIR 2019
-
 
 # Organization 
 * Alexandra Olteanu (Microsoft Research, US & Canada)
