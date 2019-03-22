@@ -1,9 +1,9 @@
 ## FACTS-IR Workshop @ SIGIR 2019
 
 # Workshop Objectives
-This workshop explores challenges in responsible information retrieval system development and deployment. The focus will be on determining actionable research agendas on five key dimensions of responsible information retrieval: fairness, accountability, confidentiality, and transparency. Rather than just a mini-conference, this workshop will be an event during which participants will also be expected to work.  The workshop aims to bring together a diverse set of researchers and practitioners interested in helping to develop the technical research agenda for responsible information retrieval. 
+This workshop explores challenges in responsible information retrieval system development and deployment. The focus will be on determining actionable research agendas on five key dimensions of responsible information retrieval: fairness, accountability, confidentiality, transparency, and safety. Rather than just a mini-conference, this workshop will be an event during which participants will also be expected to work.  The workshop aims to bring together a diverse set of researchers and practitioners interested in helping to develop the technical research agenda for responsible information retrieval. 
 
-The full-day workshop will be organize in two parts: 
+The full-day workshop will be organized in two parts: 
 * The first half-day will include presentations, based on the accepted papers by our PC members
 * For the second half-day, participants will be organized in working groups and tasked with articulating a research agenda for one of the FACTS-IR topics (Fairness, Accountability, Confidentiality, Transparency, and Safety)
 
@@ -21,7 +21,7 @@ The IR system should avoid discrimination across people and communities. To do s
 The IR system should be able to justify its recommendations or actions to users and other stakeholders, as well as be reliable at all times.  This requires an understanding of the potential harms of using the system and of who is more likely to be affected.  It also requires recourse avenues and processes for redress.
 
 ### Confidential IR 
-The output or actions of the IR system should not reveal secrets. IR systems often combine extensive behavioral logs to model their users, which if not properly handled can result in unintended leakage of information.   
+The output or actions of the IR system should not reveal secrets. For example, IR systems often combine extensive behavioral logs to model their users, which if not properly handled can result in unintended leakage of information.   
 
 ### Transparent IR
 The IR system should be able to explain why and how the suggested results were obtained to users and other interested stakeholders.  Providing proper explanations may require to answer who the users and the stakeholders are.  More broadly, the IR systems should be able to enable third parties to monitor and probe that they behave as expected. 
@@ -37,7 +37,7 @@ FACTS-IR is interested in technical contributions on these topics.
 * **July 25, 2019**:   Workshop Day at SIGIR 2019
 
 # How to submit
-Papers should be in English, in PDF, and formatted using the standard ACM style files, available at [the ACM site]( https://www.acm.org/publications/proceedings-template). FACTS-IR uses the HotCRP submission system: [FACTS-IR submission site](here).
+Papers should be in English, in PDF, and formatted using the standard ACM _sigconf_ format, using the template available at [the ACM site]( https://www.acm.org/publications/proceedings-template); Word users should use the Interim Template. FACTS-IR uses the HotCRP submission system: [FACTS-IR submission site](here).
 
 # Organization 
 * Alexandra Olteanu (Microsoft Research, US & Canada)
