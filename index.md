@@ -46,9 +46,12 @@ Papers should be in English, in PDF, and formatted using the standard ACM style 
 * Michael Ekstrand (Boise State University, US)
 
 # PC Members
-* Fernando Diaz (Microsoft Research, Canada)
-* Toshihiro Kamishima (National Institute of Advanced Industrial Science and Technology, Japan)
-* Pierre-Nicolas Schwab (Solvay Brussels School of Economics and Management, Belgium)
 * Ashudeep Singh (Cornell University, US)
+* Fernando Diaz (Microsoft Research, Canada)
 * Meike Zehlike (TU Berlin, Germany)
+* Pierre-Nicolas Schwab (Solvay Brussels School of Economics and Management, Belgium)
+* Toshihiro Kamishima (National Institute of Advanced Industrial Science and Technology, Japan)
 * TBD
+
+# Questions?
+Please mail us at XXX if you have any questions about the workshop.
