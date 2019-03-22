@@ -37,7 +37,7 @@ FACTS-IR is interested in technical contributions on these topics.
 * **July 25, 2019**:   Workshop Day at SIGIR 2019
 
 # How to submit
-Papers should be in English, in PDF, and formatted using the standard ACM style files, available at https://www.acm.org/publications/proceedings-template. FACTS-IR uses the HotCRP submission system: URL
+Papers should be in English, in PDF, and formatted using the standard ACM style files, available at [the ACM site]( https://www.acm.org/publications/proceedings-template). FACTS-IR uses the HotCRP submission system: [FACTS-IR submission site](here).
 
 # Organization 
 * Alexandra Olteanu (Microsoft Research, US & Canada)
