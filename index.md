@@ -10,7 +10,9 @@ The full-day workshop will be organize in two parts:
 To ensure that the working groups in the second part of the workshop will be productive, we may cap the number of participants. 
 
 # Call for Papers
-We welcome technical contributions and position papers as either long papers (8 pages) or extended abstracts (2-4 pages) on a wide range of topics, including:
+The purpose of the workshop is to identify gaps in the technical emerging work on responsible IR, including undertheorized and underspecified issues related to each of these four areas of focus.  We aim to create actionable research agendas for each of them. 
+
+To this end, we welcome technical contributions and position papers as either long papers (8 pages) or extended abstracts (2-4 pages) on a wide range of topics, including:
 
 ### Fair IR
 The IR system should avoid discrimination across people and communities. To do so the notion of fairness should be contextual and well grounded in the application setup and domain. Achieving fairness may be further complicated by the multi-stakeholder nature of most IR systems.
