@@ -1,4 +1,4 @@
-## Fairness, Accountability, Confidentiality, Transparency, Safety in Information Retrieval
+## FACTS-IR Workshop @ SIGIR 2019
 
 # Workshop Objectives
 This workshop explores challenges in responsible information retrieval system development and deployment. The focus will be on determining actionable research agendas on four key dimensions of responsible information retrieval: fairness, accountability, confidentiality, and transparency. Rather than just mini-conference, this workshop will be an event during which participants will also be expected to work.  The workshop aims to bring together a diverse set of researchers and practitioners interested in helping to develop the technical research agenda for responsible information retrieval.
