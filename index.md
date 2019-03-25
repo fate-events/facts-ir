@@ -37,7 +37,7 @@ FACTS-IR is interested in technical contributions on these topics.
 * **July 25, 2019**:   Workshop Day at SIGIR 2019
 
 # How to submit
-Papers should be in English, in PDF, and formatted using the standard ACM _sigconf_ format, using the template available at [the ACM site]( https://www.acm.org/publications/proceedings-template); Word users should use the Interim Template. FACTS-IR uses the HotCRP submission system: [FACTS-IR submission site](here).
+Papers should be in English, in PDF, and formatted using the standard ACM _sigconf_ format, using the template available at [the ACM site]( https://www.acm.org/publications/proceedings-template); Word users should use the Interim Template. FACTS-IR uses the HotCRP submission system: [FACTS-IR submission site](https://facts-ir-2019.hotcrp.com/).
 
 # Organization 
 * Alexandra Olteanu (Microsoft Research, US & Canada)
@@ -50,6 +50,7 @@ Papers should be in English, in PDF, and formatted using the standard ACM _sigco
 * Fernando Diaz (Microsoft Research, Canada)
 * Meike Zehlike (TU Berlin, Germany)
 * Pierre-Nicolas Schwab (Solvay Brussels School of Economics and Management, Belgium)
+* Stefano Balietti (Microsoft Research, US)
 * Toshihiro Kamishima (National Institute of Advanced Industrial Science and Technology, Japan)
 * TBD
 
