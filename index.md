@@ -33,7 +33,7 @@ FACTS-IR is interested in technical contributions on these topics.
 
 # Important Dates
 * **May 3, 2019**:     Workshop paper submissions due
-* **May 31, 2019**:    Workshop paper notification
+* **May 31, 2019**:    Workshop paper notifications
 * **June 30, 2019**:   Uploading final version to arXiv
 * **July 25, 2019**:   Workshop Day at SIGIR 2019
 
