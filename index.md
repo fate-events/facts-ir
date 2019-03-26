@@ -10,7 +10,7 @@ The full-day workshop will be organized in two parts:
 To ensure that the working groups in the second part of the workshop will be productive, we may cap the number of participants. 
 
 # Call for Papers
-The purpose of the workshop is to identify gaps in the technical emerging work on responsible IR, including undertheorized and underspecified issues related to each of these four areas of focus.  We aim to create actionable technical research agendas for each of them. 
+The purpose of the workshop is to identify gaps in the technical emerging work on responsible IR, including undertheorized and underspecified issues related to each of these five areas of focus.  We aim to create actionable technical research agendas for each of them. 
 
 To this end, we welcome technical contributions and position papers as either long papers (8 pages) or extended abstracts (2-4 pages) on a wide range of topics, including:
 
@@ -55,4 +55,4 @@ Papers should be in English, in PDF, and formatted using the standard ACM _sigco
 * TBD
 
 # Questions?
-Please mail us at XXX if you have any questions about the workshop.
+Please mail us at facts.ir.2019@gmail.com if you have any questions about the workshop.
