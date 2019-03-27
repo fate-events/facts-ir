@@ -49,10 +49,14 @@ No official proceedings will not be published, however accepted long paper submi
 * Michael Ekstrand (Boise State University, US)
 
 # PC Members
+* Asia Biega (MPI, Germany)
 * Ashudeep Singh (Cornell University, US)
+* Damiano Spina (RMIT, Australia)
+* Diane	Kelly	(University of Tennessee, US)
 * Fernando Diaz (Microsoft Research, Canada)
 * Meike Zehlike (TU Berlin, Germany)
 * Pierre-Nicolas Schwab (Solvay Brussels School of Economics and Management, Belgium)
+* Ronald Robertson (Northeastern University, US)
 * Stefano Balietti (Microsoft Research, US)
 * Toshihiro Kamishima (National Institute of Advanced Industrial Science and Technology, Japan)
 * TBD
