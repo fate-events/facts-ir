@@ -55,6 +55,7 @@ No official proceedings will not be published, however accepted long paper submi
 * Christo Wilson (Northeastern University, US)
 * Damiano Spina (RMIT, Australia)
 * Diane	Kelly	(University of Tennessee, US)
+* Dong Nguyen (Alan Turing Institute, UK)
 * Emilia	Gómez	(UPF, Spain)
 * Fernando Diaz (Microsoft Research, Canada)
 * Ingmar Weber (QCRI, Qatar)
