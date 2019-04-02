@@ -52,6 +52,7 @@ No official proceedings will not be published, however accepted long paper submi
 * Asia Biega (MPI, Germany)
 * Ashudeep Singh (Cornell University, US)
 * Avishek	Anand	(L3S, Germany)
+* Carlos Castillo (UPF, Spain)
 * Christo Wilson (Northeastern University, US)
 * Damiano Spina (RMIT, Australia)
 * Diane	Kelly	(University of Tennessee, US)
