@@ -58,6 +58,7 @@ No official proceedings will not be published, however accepted long paper submi
 * Diane	Kelly	(University of Tennessee, US)
 * Dong Nguyen (Alan Turing Institute, UK)
 * Emilia	Gómez	(UPF, Spain)
+* Faegheh Hasibi (Radboud University Nijmegen, The Netherlands)
 * Fernando Diaz (Microsoft Research, Canada)
 * Ingmar Weber (QCRI, Qatar)
 * James Thom (RMIT, Australia)
