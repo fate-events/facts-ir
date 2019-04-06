@@ -62,13 +62,13 @@ No official proceedings will not be published, however accepted long paper submi
 * Ingmar Weber (QCRI, Qatar)
 * James Thom (RMIT, Australia)
 * Meike Zehlike (TU Berlin, Germany)
-* Min Zhang (Tsinghua University, CN)
+* Min Zhang (Tsinghua University, China)
 * Pierre-Nicolas Schwab (Solvay Brussels School of Economics and Management, Belgium)
 * Rishabh Mehrotra (Spotify, UK)
 * Ronald Robertson (Northeastern University, US)
 * Solon Barocas	(Cornell University & Microsoft Research, US) 
 * Stefano Balietti (Microsoft Research, US)
-* Suzan Verberne (Leiden University, NL)
+* Suzan Verberne (Leiden University, The Netherlands)
 * Toshihiro Kamishima (National Institute of Advanced Industrial Science and Technology, Japan)
 
 # Questions?
