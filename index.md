@@ -67,8 +67,8 @@ No official proceedings will not be published, however accepted long paper submi
 * Ronald Robertson (Northeastern University, US)
 * Solon Barocas	(Cornell University & Microsoft Research, US) 
 * Stefano Balietti (Microsoft Research, US)
+* Suzan Verberne (Leiden University, NL)
 * Toshihiro Kamishima (National Institute of Advanced Industrial Science and Technology, Japan)
-* TBD
 
 # Questions?
 Please mail us at facts.ir.2019@gmail.com if you have any questions about the workshop.
