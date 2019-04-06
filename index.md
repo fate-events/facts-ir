@@ -62,6 +62,7 @@ No official proceedings will not be published, however accepted long paper submi
 * Ingmar Weber (QCRI, Qatar)
 * James Thom (RMIT, Australia)
 * Meike Zehlike (TU Berlin, Germany)
+* Min Zhang (Tsinghua University, CN)
 * Pierre-Nicolas Schwab (Solvay Brussels School of Economics and Management, Belgium)
 * Rishabh Mehrotra (Spotify, UK)
 * Ronald Robertson (Northeastern University, US)
