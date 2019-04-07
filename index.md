@@ -60,6 +60,7 @@ No official proceedings will not be published, however accepted long paper submi
 * Emilia	Gómez	(UPF, Spain)
 * Faegheh Hasibi (Radboud University Nijmegen, The Netherlands)
 * Fernando Diaz (Microsoft Research, Canada)
+* Hinda Haned (Ahold Delhaize & University of Amsterdam, The Netherlands)
 * Ingmar Weber (QCRI, Qatar)
 * James Thom (RMIT, Australia)
 * Meike Zehlike (TU Berlin, Germany)
