@@ -32,7 +32,7 @@ The IR system should be resilient to manipulation by possible adversarial partie
 FACTS-IR is interested in technical contributions on these topics.
 
 # Important Dates
-* **May 3, 2019**:     Workshop paper submissions due
+* **May 12, 2019**:     Workshop paper submissions due
 * **May 31, 2019**:    Workshop paper notifications
 * **June 30, 2019**:   Upload final version to arXiv
 * **July 25, 2019**:   Workshop Day at SIGIR 2019
@@ -40,7 +40,7 @@ FACTS-IR is interested in technical contributions on these topics.
 # How to submit
 Papers should be in English, in PDF, and formatted using the standard ACM _sigconf_ format, using the template available at [the ACM site]( https://www.acm.org/publications/proceedings-template); Word users should use the Interim Template. FACTS-IR uses the HotCRP submission system: [FACTS-IR submission site](https://facts-ir-2019.hotcrp.com/). 
 
-No official proceedings will not be published, however accepted long paper submissions will be expected to be posted on [arXiv.org](arXiv.org). This is optional for extended abstract submissions. The review process is a single-blind. 
+No official proceedings will be published, however accepted long paper submissions will be expected to be posted on [arXiv.org](arXiv.org). This is optional for extended abstract submissions. The review process is a single-blind. 
 
 # Organization 
 * Alexandra Olteanu (Microsoft Research, US & Canada)
