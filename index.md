@@ -13,7 +13,7 @@ To ensure that the working groups in the second part of the workshop will be pro
 9:00-9:10 Welcome (10)
 
 ### FAIRNESS
-9:10-9:25 Invited speaker - **Preethi Lahoti (MPI-INF)**: Operationalizing Individual Fairness for Algorithmic Decision Making (15)
+9:10-9:25 Invited talk - **Preethi Lahoti (MPI-INF)**: Operationalizing Individual Fairness for Algorithmic Decision Making (15)
 
 9:25-9:35 Paper talk - Fairness in Recommendation Ranking through Pairwise Comparisons (10)
 
@@ -25,12 +25,12 @@ To ensure that the working groups in the second part of the workshop will be pro
 10:00-10:30 BREAK
 
 ### CONFIDENTIALITY
-10:30-10:45 Invited speaker - **Mahmoud F. Sayed (University of Maryland)**  (15)
+10:30-10:45 Invited talk - **Mahmoud F. Sayed (University of Maryland)**  (15)
 
 10:45-10:55 The FACTS of Technology-Assisted Sensitivity Review (10)
 
 ### TRANSPARENCY
-10:55-11:10 Invited speaker – **Krisztian Balog (University of Stavanger & Google)** (15)
+10:55-11:10 Invited talk – **Krisztian Balog (University of Stavanger & Google)** (15)
  
 11:10-11:20 Paper talk - Do Transformer Attention Heads Provide Transparency in Abstractive Summarization? (10)
 
@@ -39,7 +39,7 @@ To ensure that the working groups in the second part of the workshop will be pro
 11:30-11:40 Paper talk - Global Aggregations of Local Explanations for Black Box models (10)
 
 ### ETHICS
-11:40-11:55 Invited speaker - **Pierre-Nicolas Schwab (RTBF)** (15)
+11:40-11:55 Invited talk - **Pierre-Nicolas Schwab (RTBF)** (15)
 
 ## The afternoon will include breakout sessions and worksing groups - details coming soon.
 
