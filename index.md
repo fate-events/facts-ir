@@ -9,7 +9,8 @@ The full-day workshop will be organized in two parts:
 
 To ensure that the working groups in the second part of the workshop will be productive, we may cap the number of participants. 
 
-# Agenda (morning session)
+# Agenda 
+## Morning session
 9:00-9:10 Welcome (10)
 
 ### FAIRNESS
@@ -48,7 +49,7 @@ To ensure that the working groups in the second part of the workshop will be pro
 
 12:00-12:30 Breakout group assigment (30)
 
-# Agenda (afternoon session)
+## Afternoon session)
 
 ### The afternoon will include breakout sessions and working groups - details coming soon.
 
