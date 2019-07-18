@@ -22,26 +22,36 @@ To ensure that the working groups in the second part of the workshop will be pro
 
 9:50-10:00 Paper talk - CobWeb: A Research Prototype for Exploring User Bias in Political Fact-Checking (10)
 
-10:00-10:30 BREAK
+### TRANSPARENCY (1)
+
+10:00-10:10 Paper talk - Do Transformer Attention Heads Provide Transparency in Abstractive Summarization? (10)
+
+10:00-10:10 Paper talk - Explaining Predictions from Tree-based Boosting Ensembles (10)
+
+10:10-10:20 Paper talk - Global Aggregations of Local Explanations for Black Box models (10)
+
+10:20-10:35 Invited talk – **Krisztian Balog (University of Stavanger & Google)** (15)
+
+**10:35-11:00 BREAK***
 
 ### CONFIDENTIALITY
-10:30-10:45 Invited talk - **Mahmoud F. Sayed (University of Maryland)**  (15)
+11:00-11:15 Invited talk - **Mahmoud F. Sayed (University of Maryland)**  (15)
 
-10:45-10:55 The FACTS of Technology-Assisted Sensitivity Review (10)
-
-### TRANSPARENCY
-10:55-11:10 Invited talk – **Krisztian Balog (University of Stavanger & Google)** (15)
- 
-11:10-11:20 Paper talk - Do Transformer Attention Heads Provide Transparency in Abstractive Summarization? (10)
-
-11:20-11:30 Paper talk - Explaining Predictions from Tree-based Boosting Ensembles (10)
-
-11:30-11:40 Paper talk - Global Aggregations of Local Explanations for Black Box models (10)
+11:15-11:25 The FACTS of Technology-Assisted Sensitivity Review (10)
 
 ### ETHICS
-11:40-11:55 Invited talk - **Pierre-Nicolas Schwab (RTBF)** (15)
+11:25-11:40 Invited talk - **Pierre-Nicolas Schwab (RTBF)** (15)
 
-## The afternoon will include breakout sessions and worksing groups - details coming soon.
+### Breakout groups and goal setting
+
+11:40-12:00 Overview of the afternoon session (20)
+
+12:00-12:30 Breakout group assigment (30)
+
+# Agenda (afternoon session)
+
+### The afternoon will include breakout sessions and working groups - details coming soon.
+
 
 
 # Call for Papers 
