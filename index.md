@@ -32,7 +32,7 @@ To ensure that the working groups in the second part of the workshop will be pro
 
 10:20-10:35 Invited talk – **Krisztian Balog (University of Stavanger & Google)** (15)
 
-**10:35-11:00 BREAK***
+**10:35-11:00 BREAK**
 
 ### CONFIDENTIALITY
 11:00-11:15 Invited talk - **Mahmoud F. Sayed (University of Maryland)**  (15)
