@@ -22,7 +22,7 @@ To ensure that the working groups in the second part of the workshop will be pro
 
 9:50-10:00 Paper talk - CobWeb: A Research Prototype for Exploring User Bias in Political Fact-Checking (10)
 
-### TRANSPARENCY (1)
+### TRANSPARENCY 
 
 10:00-10:10 Paper talk - Do Transformer Attention Heads Provide Transparency in Abstractive Summarization? (10)
 
