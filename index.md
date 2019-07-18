@@ -49,7 +49,7 @@ To ensure that the working groups in the second part of the workshop will be pro
 
 12:00-12:30 Breakout group assigment (30)
 
-## Afternoon session)
+## Afternoon session
 
 ### The afternoon will include breakout sessions and working groups - details coming soon.
 
