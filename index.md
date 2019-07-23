@@ -53,7 +53,7 @@ You can find the non-archival proceeding for the FACTS-IR workshop at: https://a
 
 11:55-12:10 Overview of the afternoon session (15)
 
-12:10-12:30 Breakout group assingment (20)
+12:10-12:30 Breakout group assignment (20)
 
 **12:30-1:30 LUNCH**
 
