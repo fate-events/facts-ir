@@ -9,8 +9,11 @@ The full-day workshop will be organized in two parts:
 
 To ensure that the working groups in the second part of the workshop will be productive, we may cap the number of participants. 
 
+### Proceedings
+You can find the non-archival proceeding for the FACTS-IR workshop at: https://arxiv.org/html/1907.05755
+
 # Agenda 
-## Morning session
+## Morning sessions
 9:00-9:10 Welcome (10)
 
 ### FAIRNESS
@@ -23,36 +26,48 @@ To ensure that the working groups in the second part of the workshop will be pro
 
 9:50-10:00 Paper talk - CobWeb: A Research Prototype for Exploring User Bias in Political Fact-Checking (10)
 
-### TRANSPARENCY 
+### TRANSPARENCY (1)
 
 10:00-10:10 Paper talk - Do Transformer Attention Heads Provide Transparency in Abstractive Summarization? (10)
 
-10:00-10:10 Paper talk - Explaining Predictions from Tree-based Boosting Ensembles (10)
+10:10-10:20 Paper talk - Explaining Predictions from Tree-based Boosting Ensembles (10)
 
-10:10-10:20 Paper talk - Global Aggregations of Local Explanations for Black Box models (10)
+10:20-10:30 Paper talk - Global Aggregations of Local Explanations for Black Box models (10)
 
-10:20-10:35 Invited talk – **Krisztian Balog (University of Stavanger & Google)** (15)
 
-**10:35-11:00 BREAK**
+**10:30-11:00 BREAK**
+
+### TRANSPARENCY (2)
+
+11:00-11:15 Invited talk – **Krisztian Balog (University of Stavanger & Google)** (15)
 
 ### CONFIDENTIALITY
-11:00-11:15 Invited talk - **Mahmoud F. Sayed (University of Maryland)**  (15)
+11:15-11:30 Invited talk - **Mahmoud F. Sayed (University of Maryland)**  (15)
 
-11:15-11:25 The FACTS of Technology-Assisted Sensitivity Review (10)
+11:30-11:40 The FACTS of Technology-Assisted Sensitivity Review (10)
 
 ### ETHICS
-11:25-11:40 Invited talk - **Pierre-Nicolas Schwab (RTBF)** (15)
+11:40-11:55 Invited talk - **Pierre-Nicolas Schwab (RTBF)** (15)
 
 ### Breakout groups and goal setting
 
-11:40-12:00 Overview of the afternoon session (20)
+11:55-12:10 Overview of the afternoon session (15)
 
-12:00-12:30 Breakout group assigment (30)
+12:10-12:30 Breakout group assingment (20)
 
-## Afternoon session
+**12:30-1:30 LUNCH**
 
-### The afternoon will include breakout sessions and working groups - details coming soon.
+## Afternoon sessions
 
+1:30-3:00 Breakout groups
+
+**3:00-3:30 BREAK**
+
+3:30-3:50 Breakout groups wrap-up
+
+3:50-4:40 Group discussion
+
+4:40-5:00 Next steps and farewell
 
 
 # Call for Papers 
