@@ -10,7 +10,7 @@ The full-day workshop will be organized in two parts:
 To ensure that the working groups in the second part of the workshop will be productive, we may cap the number of participants. 
 
 ### Proceedings
-You can find the non-archival proceeding for the FACTS-IR workshop at: https://arxiv.org/html/1907.05755
+You can find the non-archival proceeding for the FACTS-IR workshop at: [https://arxiv.org/html/1907.05755](https://arxiv.org/html/1907.05755)
 
 # Agenda 
 ## Morning sessions
